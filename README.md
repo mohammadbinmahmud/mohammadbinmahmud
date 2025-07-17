@@ -12,13 +12,13 @@ Skills: C / wordpress / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://mohammadbinmahmud.com/)
+- 🔭 I’m currently working on [wordpress web designing](https://mohammadbinmahmud.com/)
 
 - 🌱 I’m currently learning html, css, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://www.behance.net/moodboard/186570415/Landing-Page)
+- 👨‍💻 All of my projects are available at [https://github.com/mohammadbinmahmud](https://www.behance.net/moodboard/186570415/Landing-Page)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://mohammadbinmahmud.com/)
+- 📝 I regularly write articles on [https://mohammadbinmahmud.com](https://mohammadbinmahmud.com/)
 
 - 💬 Ask me about **wordpress, elementor, html, css, java**
 
